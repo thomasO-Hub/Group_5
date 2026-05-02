@@ -3166,3 +3166,405 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2026.05.02-17.09.45:892][921]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Interactable/BP_Note_Auto7
 [2026.05.02-17.09.45:892][921]LogSavePackage: Moving '../../../../../Unreal cpp/Group_5/Saved/BP_Note_Auto7FE77010842801EB177658C9289A45B41.tmp' to '../../../../../Unreal cpp/Group_5/Saved/Autosaves/Game/TopDown/Blueprints/Interactable/BP_Note_Auto7.uasset'
 [2026.05.02-17.09.45:893][921]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 1 (upload completely sent off: 444 bytes)
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 4 (shutting down connection #4)
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.05.02-17.10.42:060][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.05.02-17.10.42:061][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.02-17.10.42:061][ 90]LogHttp: Warning: 000001A234C66900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08DDBC96-4CF1-E5BA-A5D4-24B3AE88E6CF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d7d8b105461f08ea705f1ab5df6d8007%7Ce2a4a039d63945ae81e691e8ea7f450d%7C1acb40bf-9236-4d5f-add7-a53327909e4e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 11 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 12 (IPv6: (none))
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 13 (IPv4: 54.237.169.75, 3.219.151.83, 34.230.139.23, 44.217.247.197, 3.223.138.246, 44.218.205.56, 98.90.180.137, 54.84.191.156)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 14 (  Trying 54.237.169.75:443...)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 15 (SSL reusing session)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 17 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 23 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 24 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 25 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 26 (ALPN: server accepted http/1.1)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 27 (Server certificate:)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 28 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 29 ( start date: Jan  3 00:00:00 2026 GMT)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 30 ( expire date: Feb  1 23:59:59 2027 GMT)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 31 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 32 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M04)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 33 ( SSL certificate verify ok.)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 34 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 35 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 36 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 37 (Connected to datarouter.ol.epicgames.com (54.237.169.75) port 443)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 38 (using HTTP/1.x)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 39 (client read function EOF fail, only 0/444 of needed bytes read)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900: libcurl info message cache 40 (closing connection #5)
+[2026.05.02-17.10.42:061][ 91]LogHttp: Warning: 000001A234C66900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08DDBC96-4CF1-E5BA-A5D4-24B3AE88E6CF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d7d8b105461f08ea705f1ab5df6d8007%7Ce2a4a039d63945ae81e691e8ea7f450d%7C1acb40bf-9236-4d5f-add7-a53327909e4e&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 7.34s
+[2026.05.02-17.10.45:916][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.02-17.10.45:923][149]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.02-17.10.45:923][149]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.05.02-17.10.45:930][149]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 6.992 ms (total: 133.168 ms)
+[2026.05.02-17.10.45:930][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.02-17.10.45:930][149]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2026.05.02-17.10.45:933][149]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.05.02-17.10.45:977][150]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.10.46:070][150]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.02-17.10.46:093][150]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 21.974 ms (total: 371.659 ms)
+[2026.05.02-17.10.46:093][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115571s)
+[2026.05.02-17.10.46:093][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.115622s)
+[2026.05.02-17.10.46:125][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.02-17.10.46:127][150]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.05.02-17.10.46:129][150]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.02-17.10.46:129][150]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.02-17.10.46:129][150]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.02-17.10.46:129][150]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.02-17.10.46:152][150]LogWorldPartition: Display: WorldPartition initialize took 22.814 ms (total: 1.82 sec)
+[2026.05.02-17.10.46:152][150]LogPlayLevel: PIE: World Init took: (0.025705s)
+[2026.05.02-17.10.46:153][150]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.05.02-17.10.46:153][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.02-17.10.46:153][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.02-17.10.46:153][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.02-17.10.46:153][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.02-17.10.46:153][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.02-17.10.46:153][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.02-17.10.46:153][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.02-17.10.46:153][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.02-17.10.46:153][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.02-17.10.46:153][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.02-17.10.46:153][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.02-17.10.46:156][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.02-17.10.46:192][150]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.05.02-17.10.46:192][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.02-17.10.46:192][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.02-17.10.46:192][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.02-17.10.46:193][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.05.02-17.10.46:193][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.05.02-17.10.46:194][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.05.02-17.10.46:194][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.05.02-17.10.46:194][150]LogInit: FAudioDevice initialized with ID 19.
+[2026.05.02-17.10.46:194][150]LogAudio: Display: Audio Device (ID: 19) registered with world 'Lvl_TopDown'.
+[2026.05.02-17.10.46:194][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.05.02-17.10.46:199][150]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.05.02-17.10.46:248][150]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.05.02-18.10.46
+[2026.05.02-17.10.46:248][150]LogWorld: Bringing up level for play took: 0.048410
+[2026.05.02-17.10.46:256][150]PIE: Server logged in
+[2026.05.02-17.10.46:258][150]PIE: Play in editor total start time 0.336 seconds.
+[2026.05.02-17.10.48:309][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.10.48:309][328]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.10.48:310][328]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-17.10.48:320][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.10.48:320][328]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.05.02-17.10.48:324][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.02-17.10.48:331][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.10.48:368][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.10.48:368][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.05.02-17.10.48:368][328]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.05.02-17.10.48:370][328]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.05.02-17.10.48:386][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.02-17.10.48:467][329]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.05.02-17.10.53:305][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note
+[2026.05.02-17.10.53:305][706]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.05.02-17.11.31:835][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.05.02-17.11.32:547][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.02-17.11.32:578][686]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/Interactable/BP_Note] ([2] browsable assets)...
+[2026.05.02-17.11.32:587][686]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note]
+[2026.05.02-17.11.32:587][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Interactable/BP_Note]
+[2026.05.02-17.11.32:587][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Interactable/BP_Note" FILE="../../../../../Unreal cpp/Group_5/Content/TopDown/Blueprints/Interactable/BP_Note.uasset" SILENT=true
+[2026.05.02-17.11.32:598][686]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Interactable/BP_Note
+[2026.05.02-17.11.32:598][686]LogSavePackage: Moving '../../../../../Unreal cpp/Group_5/Saved/BP_NoteD38079F64895C2DF741B47A40BBD9771.tmp' to '../../../../../Unreal cpp/Group_5/Content/TopDown/Blueprints/Interactable/BP_Note.uasset'
+[2026.05.02-17.11.32:610][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.785 ms (total: 2.20 sec)
+[2026.05.02-17.11.32:640][686]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.02-17.11.32:640][686]LogContentValidation: Enabled validators:
+[2026.05.02-17.11.32:640][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.02-17.11.32:640][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.02-17.11.32:640][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.02-17.11.32:640][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.02-17.11.32:640][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.02-17.11.32:640][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.02-17.11.32:640][686]AssetCheck: /Game/TopDown/Blueprints/Interactable/BP_Note Validating asset
+[2026.05.02-17.11.32:656][686]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Unreal cpp/Group_5/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.02-17.11.33:882][788]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.02-17.11.33:888][788]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.02-17.11.33:888][788]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.05.02-17.11.33:895][788]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 6.604 ms (total: 139.773 ms)
+[2026.05.02-17.11.33:895][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.02-17.11.33:919][788]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2026.05.02-17.11.33:922][788]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.05.02-17.11.33:959][789]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.11.34:045][789]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.02-17.11.34:065][789]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 20.414 ms (total: 392.074 ms)
+[2026.05.02-17.11.34:065][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106531s)
+[2026.05.02-17.11.34:065][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.106583s)
+[2026.05.02-17.11.34:096][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.02-17.11.34:098][789]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.05.02-17.11.34:101][789]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.02-17.11.34:101][789]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.02-17.11.34:101][789]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.02-17.11.34:101][789]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.02-17.11.34:122][789]LogWorldPartition: Display: WorldPartition initialize took 21.016 ms (total: 1.84 sec)
+[2026.05.02-17.11.34:122][789]LogPlayLevel: PIE: World Init took: (0.023336s)
+[2026.05.02-17.11.34:123][789]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.05.02-17.11.34:123][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.02-17.11.34:123][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.02-17.11.34:123][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.02-17.11.34:123][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.02-17.11.34:123][789]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.02-17.11.34:123][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.02-17.11.34:123][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.02-17.11.34:123][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.02-17.11.34:123][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.02-17.11.34:123][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.02-17.11.34:123][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.02-17.11.34:126][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.02-17.11.34:154][789]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.05.02-17.11.34:155][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.02-17.11.34:155][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.02-17.11.34:155][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.02-17.11.34:155][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.05.02-17.11.34:155][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.05.02-17.11.34:158][789]LogInit: FAudioDevice initialized with ID 20.
+[2026.05.02-17.11.34:158][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.05.02-17.11.34:158][789]LogAudio: Display: Audio Device (ID: 20) registered with world 'Lvl_TopDown'.
+[2026.05.02-17.11.34:158][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.05.02-17.11.34:158][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.05.02-17.11.34:162][789]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.05.02-17.11.34:212][789]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.05.02-18.11.34
+[2026.05.02-17.11.34:213][789]LogWorld: Bringing up level for play took: 0.050304
+[2026.05.02-17.11.34:220][789]PIE: Server logged in
+[2026.05.02-17.11.34:223][789]PIE: Play in editor total start time 0.334 seconds.
+[2026.05.02-17.11.37:609][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.11.37:609][ 93]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.11.37:610][ 93]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-17.11.37:620][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.11.37:621][ 93]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.05.02-17.11.37:625][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.02-17.11.37:632][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.11.37:666][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.11.37:667][ 93]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.05.02-17.11.37:667][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.05.02-17.11.37:669][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.05.02-17.11.37:685][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.02-17.11.37:759][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.05.02-17.11.40:144][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note_C
+[2026.05.02-17.11.40:144][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note_C
+[2026.05.02-17.11.40:146][265]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note as actor: BP_Note_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Note_C_0
+[2026.05.02-17.11.40:148][265]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note as actor: BP_Note_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Note_C_0
+[2026.05.02-17.11.41:416][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.05.02-17.11.41:419][349]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.05.02-17.11.41:426][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note_C
+[2026.05.02-17.11.41:426][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note_C
+[2026.05.02-17.11.41:430][349]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note as actor: BP_Note_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Note_C_UAID_1831BFCC595143D702_1596117331
+[2026.05.02-17.11.41:432][349]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/Interactable/BP_Note.BP_Note as actor: BP_Note_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Note_C_UAID_1831BFCC595143D702_1596117331
+[2026.05.02-17.12.11:632][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.02-17.12.11:663][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/Interactable/BP_Note] ([2] browsable assets)...
+[2026.05.02-17.12.11:663][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Interactable/BP_Note]
+[2026.05.02-17.12.11:663][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Interactable/BP_Note" FILE="../../../../../Unreal cpp/Group_5/Content/TopDown/Blueprints/Interactable/BP_Note.uasset" SILENT=true
+[2026.05.02-17.12.11:676][715]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Interactable/BP_Note
+[2026.05.02-17.12.11:676][715]LogSavePackage: Moving '../../../../../Unreal cpp/Group_5/Saved/BP_Note3EF9E9E44FC2038B9AF479BAEE5F8001.tmp' to '../../../../../Unreal cpp/Group_5/Content/TopDown/Blueprints/Interactable/BP_Note.uasset'
+[2026.05.02-17.12.11:687][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.497 ms (total: 2.25 sec)
+[2026.05.02-17.12.11:717][715]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.02-17.12.11:717][715]LogContentValidation: Enabled validators:
+[2026.05.02-17.12.11:717][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.02-17.12.11:717][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.02-17.12.11:717][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.02-17.12.11:717][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.02-17.12.11:717][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.02-17.12.11:717][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.02-17.12.11:717][715]AssetCheck: /Game/TopDown/Blueprints/Interactable/BP_Note Validating asset
+[2026.05.02-17.12.14:167][917]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.02-17.12.14:174][917]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.02-17.12.14:174][917]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.05.02-17.12.14:181][917]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 6.725 ms (total: 146.498 ms)
+[2026.05.02-17.12.14:184][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.02-17.12.14:184][917]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2026.05.02-17.12.14:186][917]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.05.02-17.12.14:222][918]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.12.14:306][918]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.02-17.12.14:326][918]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 19.964 ms (total: 412.039 ms)
+[2026.05.02-17.12.14:327][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104142s)
+[2026.05.02-17.12.14:327][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.104185s)
+[2026.05.02-17.12.14:356][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.05.02-17.12.14:358][918]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.05.02-17.12.14:361][918]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.02-17.12.14:361][918]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.02-17.12.14:361][918]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.02-17.12.14:361][918]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.02-17.12.14:382][918]LogWorldPartition: Display: WorldPartition initialize took 20.700 ms (total: 1.86 sec)
+[2026.05.02-17.12.14:382][918]LogPlayLevel: PIE: World Init took: (0.023128s)
+[2026.05.02-17.12.14:383][918]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.05.02-17.12.14:383][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.02-17.12.14:383][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.02-17.12.14:383][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.02-17.12.14:383][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.02-17.12.14:383][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.02-17.12.14:383][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.02-17.12.14:383][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.02-17.12.14:383][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.02-17.12.14:383][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.02-17.12.14:383][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.02-17.12.14:383][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.02-17.12.14:385][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.02-17.12.14:415][918]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.05.02-17.12.14:415][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.02-17.12.14:415][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.02-17.12.14:415][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.02-17.12.14:416][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.05.02-17.12.14:416][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.05.02-17.12.14:418][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.05.02-17.12.14:418][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.05.02-17.12.14:418][918]LogInit: FAudioDevice initialized with ID 21.
+[2026.05.02-17.12.14:418][918]LogAudio: Display: Audio Device (ID: 21) registered with world 'Lvl_TopDown'.
+[2026.05.02-17.12.14:418][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.05.02-17.12.14:423][918]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.05.02-17.12.14:471][918]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.05.02-18.12.14
+[2026.05.02-17.12.14:472][918]LogWorld: Bringing up level for play took: 0.048747
+[2026.05.02-17.12.14:478][918]PIE: Server logged in
+[2026.05.02-17.12.14:480][918]PIE: Play in editor total start time 0.306 seconds.
+[2026.05.02-17.12.24:042][836]LogBlueprintUserMessages: [BP_Note_C_UAID_1831BFCC595143D702_1596117331] looked at
+[2026.05.02-17.12.25:533][977]LogBlueprintUserMessages: [BP_Pickup_C_UAID_1831BFCC595143D702_1081744330] picked up
+[2026.05.02-17.12.26:175][ 37]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'interactablesInRange' of length 0 in '/Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C'!
+[2026.05.02-17.12.26:175][ 37]LogScript: Warning: Script Msg called by: BP_TopDownCharacter_C /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_TopDownCharacter_C_0
+[2026.05.02-17.12.26:377][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7792.761719
+[2026.05.02-17.12.26:928][107]LogBlueprintUserMessages: [BP_Pickup_C_UAID_1831BFCC59513FD702_1404240625] picked up
+[2026.05.02-17.12.29:409][339]LogBlueprintUserMessages: [BP_Door_C_UAID_1831BFCC59513FD702_1079038624] door interacted with
+[2026.05.02-17.12.33:079][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.12.33:079][681]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.12.33:080][681]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-17.12.33:091][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.12.33:091][681]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.05.02-17.12.33:098][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.02-17.12.33:105][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.12.33:139][681]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.02-17.12.33:139][681]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.05.02-17.12.33:140][681]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.05.02-17.12.33:142][681]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.05.02-17.12.33:147][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.12.33:157][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.05.02-17.12.33:234][682]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 1 (upload completely sent off: 792 bytes)
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 4 (shutting down connection #6)
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.05.02-17.12.41:980][216]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.05.02-17.12.41:980][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08DDBC96-4CF1-E5BA-A5D4-24B3AE88E6CF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d7d8b105461f08ea705f1ab5df6d8007%7Ce2a4a039d63945ae81e691e8ea7f450d%7C1acb40bf-9236-4d5f-add7-a53327909e4e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 11 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 12 (IPv6: (none))
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 13 (IPv4: 52.6.140.39, 3.211.59.132, 107.21.29.102, 32.193.249.246, 3.234.46.94, 174.129.105.133, 3.208.53.205, 32.194.215.172)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 14 (  Trying 52.6.140.39:443...)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 15 (SSL reusing session)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 17 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 23 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 24 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 25 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 26 (ALPN: server accepted http/1.1)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 27 (Server certificate:)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 28 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 29 ( start date: Jan  3 00:00:00 2026 GMT)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 30 ( expire date: Feb  1 23:59:59 2027 GMT)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 31 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 32 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M04)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 33 ( SSL certificate verify ok.)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 34 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 35 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 36 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 37 (Connected to datarouter.ol.epicgames.com (52.6.140.39) port 443)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 38 (using HTTP/1.x)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 39 (client read function EOF fail, only 0/792 of needed bytes read)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600: libcurl info message cache 40 (closing connection #7)
+[2026.05.02-17.12.41:981][217]LogHttp: Warning: 000001A247EEB600 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08DDBC96-4CF1-E5BA-A5D4-24B3AE88E6CF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d7d8b105461f08ea705f1ab5df6d8007%7Ce2a4a039d63945ae81e691e8ea7f450d%7C1acb40bf-9236-4d5f-add7-a53327909e4e&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 7.75s
+[2026.05.02-17.12.44:924][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.02-17.12.44:930][441]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.02-17.12.44:930][441]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.05.02-17.12.44:936][441]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 6.618 ms (total: 153.117 ms)
+[2026.05.02-17.12.44:937][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.02-17.12.44:959][441]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2026.05.02-17.12.44:961][441]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.05.02-17.12.44:998][442]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.12.45:085][442]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.02-17.12.45:106][442]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 20.565 ms (total: 432.604 ms)
+[2026.05.02-17.12.45:106][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108065s)
+[2026.05.02-17.12.45:106][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.108114s)
+[2026.05.02-17.12.45:135][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.02-17.12.45:137][442]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.05.02-17.12.45:139][442]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.02-17.12.45:139][442]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.02-17.12.45:139][442]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.02-17.12.45:139][442]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.02-17.12.45:166][442]LogWorldPartition: Display: WorldPartition initialize took 26.567 ms (total: 1.88 sec)
+[2026.05.02-17.12.45:166][442]LogPlayLevel: PIE: World Init took: (0.028905s)
+[2026.05.02-17.12.45:167][442]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.05.02-17.12.45:167][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.02-17.12.45:167][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.02-17.12.45:167][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.02-17.12.45:167][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.02-17.12.45:167][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.02-17.12.45:167][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.02-17.12.45:167][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.02-17.12.45:167][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.02-17.12.45:167][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.02-17.12.45:167][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.02-17.12.45:167][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.02-17.12.45:169][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.02-17.12.45:199][442]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.05.02-17.12.45:199][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.02-17.12.45:199][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.02-17.12.45:199][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.02-17.12.45:200][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.05.02-17.12.45:200][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.05.02-17.12.45:202][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.05.02-17.12.45:202][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.05.02-17.12.45:202][442]LogInit: FAudioDevice initialized with ID 22.
+[2026.05.02-17.12.45:202][442]LogAudio: Display: Audio Device (ID: 22) registered with world 'Lvl_TopDown'.
+[2026.05.02-17.12.45:202][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.05.02-17.12.45:207][442]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.05.02-17.12.45:253][442]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.05.02-18.12.45
+[2026.05.02-17.12.45:253][442]LogWorld: Bringing up level for play took: 0.045958
+[2026.05.02-17.12.45:260][442]PIE: Server logged in
+[2026.05.02-17.12.45:262][442]PIE: Play in editor total start time 0.333 seconds.
+[2026.05.02-17.12.46:852][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-17.12.46:852][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7813.220215, Update Interval: 354.656830
+[2026.05.02-17.12.50:110][897]LogBlueprintUserMessages: [BP_Door_C_UAID_1831BFCC59513FD702_1079038624] door interacted with
+[2026.05.02-17.12.51:184][996]LogBlueprintUserMessages: [BP_Door_C_UAID_1831BFCC59513FD702_1079038624] door interacted with
+[2026.05.02-17.12.52:578][125]LogBlueprintUserMessages: [BP_Door_C_UAID_1831BFCC59513FD702_1079038624] door interacted with
+[2026.05.02-17.12.53:898][249]LogBlueprintUserMessages: [BP_Door_C_UAID_1831BFCC59513FD702_1079038624] door interacted with
+[2026.05.02-17.13.36:511][393]LogBlueprintUserMessages: [BP_Note_C_UAID_1831BFCC595143D702_1596117331] looked at
+[2026.05.02-17.13.37:167][455]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'interactablesInRange' of length 0 in '/Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C'!
+[2026.05.02-17.13.37:167][455]LogScript: Warning: Script Msg called by: BP_TopDownCharacter_C /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_TopDownCharacter_C_0
+[2026.05.02-17.13.37:471][485]LogBlueprintUserMessages: [BP_Pickup_C_UAID_1831BFCC595143D702_1081744330] picked up
+[2026.05.02-17.13.38:453][580]LogBlueprintUserMessages: [BP_Pickup_C_UAID_1831BFCC59513FD702_1404240625] picked up
+[2026.05.02-17.13.39:888][713]LogBlueprintUserMessages: [BP_Door_C_UAID_1831BFCC59513FD702_1079038624] door interacted with
+[2026.05.02-17.13.40:159][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.13.40:159][735]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.02-17.13.40:160][735]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-17.13.40:170][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.13.40:171][735]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.05.02-17.13.40:178][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.02-17.13.40:185][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-17.13.40:220][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.02-17.13.40:220][735]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.05.02-17.13.40:220][735]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.05.02-17.13.40:222][735]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.05.02-17.13.40:228][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-17.13.40:240][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.05.02-17.13.40:315][736]LogPlayLevel: Display: Destroying online subsystem :Context_33
