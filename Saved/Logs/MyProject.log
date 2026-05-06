@@ -1424,3 +1424,223 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.06-14.23.16:809][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7625.558594
 [2026.05.06-14.23.17:810][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.06-14.23.17:810][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7626.226074, Update Interval: 323.330170
+[2026.05.06-14.29.13:218][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7981.974121
+[2026.05.06-14.29.14:216][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-14.29.14:216][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7982.641602, Update Interval: 345.243073
+[2026.05.06-14.30.46:546][947]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.05.06-14.30.54:436][215]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2026.05.06-14.30.54:436][215]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2026.05.06-14.30.54:683][217]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.05.06-14.30.55:536][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2026.05.06-14.30.55:565][235]LogEditorActor: Deleted 0 Actors (0.188 secs)
+[2026.05.06-14.30.59:467][235]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2026.05.06-14.30.59:484][235]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2026.05.06-14.30.59:484][235]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2026.05.06-14.30.59:484][235]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: ================================================
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Total job queries 384, among them cache hits 82 (21.35%), DDC hits 279 (72.66%), Duplicates 21 (5.47%)
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Tracking 281 distinct input hashes that result in 219 distinct outputs (77.94%)
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: RAM used: 1.35 MiB of 819.20 MiB budget. Usage: 0.17%
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 1.44 s
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Job life time (pending + execution): average 1.46 s, max 1.51
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Shader code size: total 8.723 KiB, numShaders 2, average 4.361 KiB, min 820 B, max 7.922 KiB
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.51 s
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.54%
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Average processing rate: 1.32 jobs/sec
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Total thread time: 0.826 s
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Total thread preprocess time: 6.938 s
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Percentage time preprocessing: 839.53%
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Effective parallelization: 0.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.045492
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.06-14.31.35:868][471]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect - 55.34% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect - 44.66% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: === Material stats ===
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: Materials Translated:    146
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: Material Translation Only: 0.05 s (33%)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: Material Cache Hits: 14 (10%)
+[2026.05.06-14.31.35:869][471]LogShaderCompilers: Display: ================================================
+[2026.05.06-14.32.09:400][598]Cmd: EDIT COPY
+[2026.05.06-14.32.09:924][615]Cmd: EDIT PASTE
+[2026.05.06-14.32.17:647][848]Cmd: EDIT COPY
+[2026.05.06-14.32.17:942][856]Cmd: EDIT PASTE
+[2026.05.06-14.33.04:358][295]Cmd: TRANSACTION UNDO
+[2026.05.06-14.33.04:358][295]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.06-14.33.15:664][654]LogEditorActor: Deleted Actor: SpotLight
+[2026.05.06-14.33.15:666][654]LogEditorActor: Deleted Actor: SpotLight
+[2026.05.06-14.33.15:667][654]LogEditorActor: Deleted Actor: SpotLight
+[2026.05.06-14.33.15:687][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.06-14.33.15:690][654]LogEditorActor: Deleted 3 Actors (0.034 secs)
+[2026.05.06-14.34.09:229][280]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.06-14.34.30:802][966]Cmd: DELETE
+[2026.05.06-14.34.30:803][966]Cmd: ACTOR DELETE
+[2026.05.06-14.34.30:812][966]LogEditorActor: Deleted Actor: SpotLight
+[2026.05.06-14.34.30:835][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.05.06-14.34.30:838][966]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.05.06-14.34.41:338][314]Cmd: EDIT COPY
+[2026.05.06-14.34.42:129][341]Cmd: EDIT PASTE
+[2026.05.06-14.34.55:686][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.06-14.34.55:708][754]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.06-14.34.55:775][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067069s)
+[2026.05.06-14.34.55:775][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.067905s)
+[2026.05.06-14.34.55:793][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.06-14.34.55:801][754]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.05.06-14.34.55:899][754]LogPlayLevel: PIE: World Init took: (0.099132s)
+[2026.05.06-14.34.55:904][754]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.05.06-14.34.55:906][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.06-14.34.55:906][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.06-14.34.55:906][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.06-14.34.55:906][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.06-14.34.55:906][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.06-14.34.55:906][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.06-14.34.55:906][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.06-14.34.55:906][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.06-14.34.55:909][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.06-14.34.55:909][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.06-14.34.55:909][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.06-14.34.55:913][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.06-14.34.56:043][754]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.05.06-14.34.56:046][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.06-14.34.56:046][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.06-14.34.56:048][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.06-14.34.56:052][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.05.06-14.34.56:052][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.05.06-14.34.56:054][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.05.06-14.34.56:054][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.05.06-14.34.56:055][754]LogInit: FAudioDevice initialized with ID 3.
+[2026.05.06-14.34.56:055][754]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_TopDown'.
+[2026.05.06-14.34.56:056][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.06-14.34.56:084][754]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.05.06-14.34.56:173][754]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 60) at 2026.05.06-15.34.56
+[2026.05.06-14.34.56:191][754]LogWorld: Bringing up level for play took: 0.022177
+[2026.05.06-14.34.56:208][754]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.05.06-14.34.56:220][754]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.05.06-14.34.56:271][754]PIE: Server logged in
+[2026.05.06-14.34.56:274][754]PIE: Play in editor total start time 0.605 seconds.
+[2026.05.06-14.35.03:021][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.06-14.35.03:021][977]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.05.06-14.35.03:033][977]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.35.03:041][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.35.03:041][977]LogWorld: UWorld::CleanupWorld for Animations, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.35.03:041][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.35.03:042][977]LogWorld: UWorld::CleanupWorld for 3d_Models, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.35.03:042][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.35.03:052][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.06-14.35.03:055][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.35.03:081][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.06-14.35.03:083][977]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.06-14.35.03:083][977]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.05.06-14.35.03:088][977]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.05.06-14.35.03:112][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.05.06-14.35.03:178][978]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.05.06-14.35.03:210][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.05.06-14.35.30:328][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.06-14.35.30:456][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/SL/3d_Models_Auto3
+[2026.05.06-14.35.30:456][868]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/Group_5/Saved/3d_Models_Auto34A98E512450A943017F71F8B831A533E.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/Group_5/Saved/Autosaves/Game/TopDown/SL/3d_Models_Auto3.umap'
+[2026.05.06-14.35.30:466][868]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.152
+[2026.05.06-14.35.30:466][868]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
+[2026.05.06-14.35.32:403][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8361.128906
+[2026.05.06-14.35.32:730][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-14.35.32:730][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8361.427734, Update Interval: 330.740692
+[2026.05.06-14.38.31:425][837]Cmd: EDIT COPY
+[2026.05.06-14.38.31:837][851]Cmd: EDIT PASTE
+[2026.05.06-14.38.43:614][218]Cmd: EDIT COPY
+[2026.05.06-14.38.43:953][229]Cmd: EDIT PASTE
+[2026.05.06-14.40.38:942][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-14.40.39:015][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/SL/3d_Models" FILE="../../../../../../Users/Tommy/Documents/GitHub/Group_5/Content/TopDown/SL/3d_Models.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.05.06-14.40.39:037][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.06-14.40.39:132][730]LogSavePackage: Moving output files for package: /Game/TopDown/SL/3d_Models
+[2026.05.06-14.40.39:132][730]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/Group_5/Saved/3d_Models6DD711E2492034D5E6544382EE4494AF.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/Group_5/Content/TopDown/SL/3d_Models.umap'
+[2026.05.06-14.40.39:155][730]LogFileHelpers: Saving map '3d_Models' took 0.139
+[2026.05.06-14.40.39:166][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.256 ms (total: 839.253 ms)
+[2026.05.06-14.40.39:240][730]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-14.40.39:240][730]LogContentValidation: Enabled validators:
+[2026.05.06-14.40.39:240][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-14.40.39:240][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-14.40.39:240][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-14.40.39:240][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-14.40.39:240][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-14.40.39:240][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-14.40.39:244][730]AssetCheck: /Game/TopDown/SL/3d_Models Validating asset
+[2026.05.06-14.40.40:115][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.06-14.40.40:183][756]LogStall: Shutdown...
+[2026.05.06-14.40.40:183][756]LogStall: Shutdown complete.
+[2026.05.06-14.40.40:250][756]LogSlate: Window 'Message Log' being destroyed
+[2026.05.06-14.40.40:257][756]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2026.05.06-14.40.40:549][756]Cmd: QUIT_EDITOR
+[2026.05.06-14.40.40:550][756]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.06-14.40.40:568][757]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.06-14.40.40:574][757]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.06-14.40.40:574][757]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.06-14.40.40:601][757]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.40.40:604][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.40.40:604][757]LogWorld: UWorld::CleanupWorld for Animations, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.40.40:604][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.40.40:604][757]LogWorld: UWorld::CleanupWorld for Development, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.40.40:604][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.40.40:604][757]LogWorld: UWorld::CleanupWorld for 3d_Models, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.40.40:604][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.40.40:660][757]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.06-14.40.40:661][757]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.06-14.40.40:672][757]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.06-14.40.40:722][757]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.40.40:722][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.40.40:724][757]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-14.40.40:724][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-14.40.40:738][757]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.06-14.40.40:739][757]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.06-14.40.40:752][757]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.06-14.40.41:563][757]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.06-14.40.41:563][757]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.06-14.40.41:563][757]LogAudio: Display: Audio Device unregistered from world 'Lvl_TopDown'.
+[2026.05.06-14.40.41:563][757]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.06-14.40.41:564][757]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.06-14.40.41:566][757]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.06-14.40.41:582][757]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.06-14.40.41:582][757]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.06-14.40.41:587][757]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.05.06-14.40.41:622][757]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.06-14.40.41:625][757]LogExit: Preparing to exit.
+[2026.05.06-14.40.41:761][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.05.06-14.40.42:916][757]LogEditorDataStorage: Deinitializing
+[2026.05.06-14.40.43:243][757]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.06-14.40.43:464][757]LogExit: Editor shut down
+[2026.05.06-14.40.43:475][757]LogExit: Transaction tracking system shut down
+[2026.05.06-14.40.44:304][757]LogExit: Object subsystem successfully closed.
+[2026.05.06-14.40.44:317][757]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.06-14.40.44:903][757]LogMemoryProfiler: Shutdown
+[2026.05.06-14.40.44:903][757]LogNetworkingProfiler: Shutdown
+[2026.05.06-14.40.44:903][757]LoadingProfiler: Shutdown
+[2026.05.06-14.40.44:903][757]LogTimingProfiler: Shutdown
+[2026.05.06-14.40.44:915][757]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.06-14.40.44:915][757]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.06-14.40.45:473][757]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.06-14.40.45:513][757]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.06-14.40.45:513][757]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF7AC074-4505-09AB-C92C-40A91E880C64%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3859bf9c4ca43b58e5a50ebc4b200d94%7C28318287c073437790bea0c836c4ac5c%7C321eba9d-d414-4bd2-95ba-a0ca4b828cc3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.06-14.40.46:089][757]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.06-14.40.46:107][757]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.06-14.40.46:113][757]RenderDocPlugin: plugin has been unloaded.
+[2026.05.06-14.40.46:122][757]LogXGEController: Cleaning working directory: C:/Users/Tommy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.06-14.40.46:148][757]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.06-14.40.46:148][757]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.06-14.40.46:148][757]LogPakFile: Destroying PakPlatformFile
+[2026.05.06-14.40.46:964][757]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.06-14.40.47:133][757]LogExit: Exiting.
+[2026.05.06-14.40.47:170][757]Log file closed, 05/06/26 15:40:47
