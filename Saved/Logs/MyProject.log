@@ -2247,3 +2247,16 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.05.08-11.39.55:570][370]LogTimingProfiler: Shutdown
 [2026.05.08-11.39.55:591][370]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
 [2026.05.08-11.39.55:592][370]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.08-11.39.58:097][370]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.08-11.39.58:735][370]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.08-11.39.58:829][370]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.08-11.39.58:830][370]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CA2A0BA-4A1F-4F76-7A07-28A4AF7B35AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3859bf9c4ca43b58e5a50ebc4b200d94%7C28318287c073437790bea0c836c4ac5c%7C321eba9d-d414-4bd2-95ba-a0ca4b828cc3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.08-11.39.58:874][370]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.08-11.39.58:878][370]RenderDocPlugin: plugin has been unloaded.
+[2026.05.08-11.39.58:895][370]LogXGEController: Cleaning working directory: C:/Users/Tommy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.08-11.39.58:944][370]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.08-11.39.58:944][370]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.08-11.39.58:950][370]LogPakFile: Destroying PakPlatformFile
+[2026.05.08-11.40.02:538][370]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.08-11.40.02:925][370]LogExit: Exiting.
+[2026.05.08-11.40.03:063][370]Log file closed, 05/08/26 12:40:03
