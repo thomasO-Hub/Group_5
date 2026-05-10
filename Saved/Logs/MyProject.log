@@ -4489,3 +4489,6 @@ FPackageName: Skipped package /Niagara/DefaultAssets/FlameSpriteMaterial has a v
 [2026.05.10-16.54.04:344][969]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2026.05.10-16.54.04:344][969]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.05.10-16.54.04:344][969]LogPakFile: Destroying PakPlatformFile
+[2026.05.10-16.54.06:241][969]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.10-16.54.06:354][969]LogExit: Exiting.
+[2026.05.10-16.54.06:385][969]Log file closed, 05/10/26 17:54:06
