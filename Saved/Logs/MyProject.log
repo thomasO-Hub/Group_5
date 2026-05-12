@@ -1781,3 +1781,6 @@ Sampler Limit: 32
 [2026.05.12-15.46.46:934][152]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2026.05.12-15.46.46:934][152]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.05.12-15.46.46:936][152]LogPakFile: Destroying PakPlatformFile
+[2026.05.12-15.46.48:695][152]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.12-15.46.48:868][152]LogExit: Exiting.
+[2026.05.12-15.46.48:916][152]Log file closed, 05/12/26 16:46:48
