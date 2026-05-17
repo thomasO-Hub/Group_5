@@ -6381,3 +6381,111 @@ FPackageName: Skipped package /Game/TopDown/Blueprints/BP_CameraTrigger has a va
 [2026.05.17-21.13.08:301][448]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3516.603760, Update Interval: 335.366058
 [2026.05.17-21.14.34:116][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2026.05.17-21.14.34:120][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.038
+[2026.05.17-21.16.22:983][ 32]LogDerivedDataCache: C:/Users/SACHA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.17-21.19.37:957][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3906.592285
+[2026.05.17-21.19.38:957][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.17-21.19.38:957][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3907.258545, Update Interval: 308.622711
+[2026.05.17-21.23.45:428][ 48]Cmd: TRANSACTION UNDO
+[2026.05.17-21.23.45:428][ 48]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.23.45:982][ 51]Cmd: TRANSACTION UNDO
+[2026.05.17-21.23.45:982][ 51]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.23.46:514][ 56]Cmd: TRANSACTION UNDO
+[2026.05.17-21.23.46:514][ 56]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.23.47:021][ 62]Cmd: TRANSACTION UNDO
+[2026.05.17-21.23.47:021][ 62]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.05:223][282]Cmd: DELETE
+[2026.05.17-21.24.05:223][282]Cmd: ACTOR DELETE
+[2026.05.17-21.24.05:230][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:231][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:233][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:234][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:236][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:237][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:238][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:240][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:241][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.17-21.24.05:243][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:245][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:246][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:247][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:248][282]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.05:285][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.05.17-21.24.05:288][282]LogEditorActor: Deleted 14 Actors (0.064 secs)
+[2026.05.17-21.24.18:607][451]Cmd: DELETE
+[2026.05.17-21.24.18:607][451]Cmd: ACTOR DELETE
+[2026.05.17-21.24.18:612][451]LogEditorActor: Deleted Actor: LocalFogVolume
+[2026.05.17-21.24.18:643][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.17-21.24.18:645][451]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.05.17-21.24.33:293][637]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.33:293][637]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.33:562][638]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.33:562][638]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.33:794][639]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.33:794][639]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.34:025][640]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.34:025][640]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.34:218][641]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.34:218][641]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.34:410][642]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.34:410][642]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.34:670][645]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.34:670][645]LogEditorTransaction: Undo Delete Elements
+[2026.05.17-21.24.34:855][646]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.34:855][646]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.35:655][654]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.35:655][654]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.35:859][655]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.35:859][655]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.35:970][656]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.35:971][656]LogEditorTransaction: Undo Delete Elements
+[2026.05.17-21.24.36:154][657]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.36:154][657]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.36:371][659]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.36:371][659]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.36:507][660]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.36:507][660]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.37:579][673]Cmd: TRANSACTION UNDO
+[2026.05.17-21.24.37:579][673]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.17-21.24.38:818][685]Cmd: SELECT NONE
+[2026.05.17-21.24.55:356][886]Cmd: DELETE
+[2026.05.17-21.24.55:356][886]Cmd: ACTOR DELETE
+[2026.05.17-21.24.55:360][886]LogEditorActor: Deleted Actor: NiagaraActor
+[2026.05.17-21.24.55:395][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.17-21.24.55:398][886]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.05.17-21.24.57:947][941]Cmd: DELETE
+[2026.05.17-21.24.57:947][941]Cmd: ACTOR DELETE
+[2026.05.17-21.24.57:952][941]LogEditorActor: Deleted Actor: NiagaraActor
+[2026.05.17-21.24.57:985][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.17-21.24.57:987][941]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.05.17-21.25.00:558][ 80]Cmd: TRANSACTION UNDO
+[2026.05.17-21.25.00:558][ 80]LogEditorTransaction: Undo Delete Elements
+[2026.05.17-21.25.04:405][156]Cmd: DELETE
+[2026.05.17-21.25.04:405][156]Cmd: ACTOR DELETE
+[2026.05.17-21.25.04:412][156]LogEditorActor: Deleted Actor: NiagaraActor
+[2026.05.17-21.25.04:444][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.17-21.25.04:446][156]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.05.17-21.25.16:222][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.17-21.25.16:353][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.17-21.25.16:383][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.17-21.25.16:412][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.17-21.25.16:423][803]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/5/U6/H4DAW5L9VSL38YRFE1SOUY
+[2026.05.17-21.25.16:424][803]LogSavePackage: Moving '../../../../../Unreal cpp/Group_5/Saved/H4DAW5L9VSL38YRFE1SOUY8E5FEBC94C7874BDA6BF17AC3F749912.tmp' to '../../../../../Unreal cpp/Group_5/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/U6/H4DAW5L9VSL38YRFE1SOUY.uasset'
+[2026.05.17-21.25.16:434][803]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/B/FW/C5WZ83RJDEB9Z6MVTRKHMA
+[2026.05.17-21.25.16:434][803]LogSavePackage: Moving '../../../../../Unreal cpp/Group_5/Saved/C5WZ83RJDEB9Z6MVTRKHMA202D56CD41C0DA70D07603AAFFC1B2BE.tmp' to '../../../../../Unreal cpp/Group_5/Content/__ExternalActors__/TopDown/Lvl_TopDown/B/FW/C5WZ83RJDEB9Z6MVTRKHMA.uasset'
+[2026.05.17-21.25.16:442][803]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/8Z/X696D8KX1OPQHT4GPB61UJ
+[2026.05.17-21.25.16:443][803]LogSavePackage: Moving '../../../../../Unreal cpp/Group_5/Saved/X696D8KX1OPQHT4GPB61UJ83A8CC2F46751517D1A2508BAD3EFB61.tmp' to '../../../../../Unreal cpp/Group_5/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/8Z/X696D8KX1OPQHT4GPB61UJ.uasset'
+[2026.05.17-21.25.16:452][803]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/OU/9RBUI93WSBT5R3EHESD7Q1
+[2026.05.17-21.25.16:452][803]LogSavePackage: Moving '../../../../../Unreal cpp/Group_5/Saved/9RBUI93WSBT5R3EHESD7Q191D702E1458E6CC8A75A979AF5C770A3.tmp' to '../../../../../Unreal cpp/Group_5/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/OU/9RBUI93WSBT5R3EHESD7Q1.uasset'
+[2026.05.17-21.25.16:485][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.379 ms (total: 9.30 sec)
+[2026.05.17-21.25.16:591][803]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.17-21.25.16:591][803]LogContentValidation: Enabled validators:
+[2026.05.17-21.25.16:591][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.17-21.25.16:591][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.17-21.25.16:591][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.17-21.25.16:591][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.17-21.25.16:591][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.17-21.25.16:591][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.17-21.25.16:591][803]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2026.05.17-21.25.28:869][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4257.509766
+[2026.05.17-21.25.29:865][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.17-21.25.29:865][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4258.173340, Update Interval: 340.039062
