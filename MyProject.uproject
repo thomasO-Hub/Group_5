@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{F116BD19-4C17-3586-E87D-0C86ABD0B8FE}",
+	"EngineAssociation": "{7D6FBEB3-4029-B577-C4A8-489A85F5B299}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "GameplayStateTree",
-			"Enabled": true
 		}
 	]
 }
